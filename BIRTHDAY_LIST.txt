@@ -1,0 +1,12 @@
+#0alles alles Gute zum Geburtstag! Hoffe du hast einen schoenen Tag und laesst dich schoen feiern! :)
+#1ich wuensche dir alles Gute zum Geburtstag! Mach dir einen schoenen Tag, ich denke an dich! :)
+#2hoffe dir geht es an deinem Geburtstag gut und du kannst dich schoen feiern lassen! Alles Gute von mir :)
+#3zum Geburstag wünsche ich dir alles Gute und viel Glueck im neuen Lebensjahr!
+#4viele liebe Geburstagsgrueße wuensche ich dir! Lass dich feiern! :)
+01,13,+4915780934743,Jörn
+01,28,+491788291355,Mama
+01,23,+491729855913,Lukas
+01,20,+4915780934743,Hans
+10,09,+4915732203456,Friedrich
+11,03,+4915778946393,Melissa
+12,22,+491771549309,Papa
